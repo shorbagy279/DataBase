@@ -1,2 +1,2 @@
 # DataBase
-ITI Data base course 
+ITI Data-base course 
